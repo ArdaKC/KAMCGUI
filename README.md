@@ -1,2 +1,2 @@
 # KAMCGUI
-Sadece GUİ kısmını içeren KCS AutoMacchanger.
+macchanger adlı paketiin kullanımını kolaylaştıran araç.
